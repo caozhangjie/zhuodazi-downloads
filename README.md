@@ -6,6 +6,10 @@
 
 目前开放六华：2–5 人离线对战、三档 AI、默认昵称、自动存档、苹果＋安卓通用局域网房间。
 
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.0-beta.1) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.0-beta.1/zhuodazi-android-encrypted.zip)
+
+![下载二维码](download-qr.png)
+
 ## 下载与安装
 
 1. 在本仓库 Releases 下载 `zhuodazi-android-encrypted.zip`。
