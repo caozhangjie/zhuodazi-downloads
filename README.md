@@ -4,9 +4,9 @@
 
 此仓库仅用于发布加密的 Android 安装包，不包含 App 源码或签名私钥。
 
-当前版本 **1.0.0-beta.2**，包含六华、Maskmen、Scout、Panda Panda、郎中闯江湖、辣椒王、初创公司和纸牌帮。支持离线人机对战、默认昵称、自动存档和苹果＋安卓通用局域网房间。
+当前版本 **1.0.0-beta.3**，包含六华、Maskmen、Scout、Panda Panda、郎中闯江湖、辣椒王、初创公司、纸牌帮、花砖物语、同谐幽境和 RA。支持离线人机对战、默认昵称、自动存档和苹果＋安卓通用局域网房间。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.0-beta.2) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.0-beta.2/zhuodazi-android-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.0-beta.3) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.0-beta.3/zhuodazi-android-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
