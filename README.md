@@ -1,12 +1,12 @@
-# 桌搭子 · 安卓内测下载
+# 桌搭子 · 安卓下载
 
 叫上伙伴，一起开桌。
 
 此仓库仅用于发布加密的 Android 安装包，不包含 App 源码或签名私钥。
 
-当前版本 **1.0.0-beta.5**，包含六华、Maskmen、Scout、Panda Panda、郎中闯江湖、辣椒王、初创公司、纸牌帮、花砖物语、同谐幽境、RA、熵增猫、疯骰、星际探险队、Town77、Nine Tiles Panic、米尔帕和城堡连击，共 18 款。城堡连击采用90张重绘卡面，包含一次确认招募、牌库背放与加强版挂锁机制。首页支持四类目录与展开、收起动画。支持离线人机对战、默认昵称、自动存档和苹果＋安卓通用局域网房间。
+当前版本 **1.0.0**，包含六华、Maskmen、Scout、Panda Panda、郎中闯江湖、辣椒王、初创公司、纸牌帮、花砖物语、同谐幽境、RA、熵增猫、疯骰、星际探险队、Town77、Nine Tiles Panic、米尔帕和城堡连击，共 18 款。城堡连击归入拼图构筑，90张卡图和特使圆标已优化；阵容旁显示金币与钥匙，支持即时效果自动执行、加强版延时效果按钮和查看他人构组。首页支持四类目录与展开、收起动画。支持离线人机对战、默认昵称、自动存档和苹果＋安卓通用局域网房间。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.0-beta.5) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.0-beta.5/zhuodazi-android-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.0) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.0/zhuodazi-android-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
@@ -21,4 +21,4 @@
 
 后续发布版保持同一签名，递增版本号。之前经 USB 安装的 Debug 版不能被发布版直接覆盖，卸载会清除本地数据，请先联系开发者处理。完整安装说明与 APK 校验值均在加密包内。
 
-内测版本仍在完善跨端完整对局、弱网及后台恢复，请将问题反馈给邀请者。
+首次正式版为1.0.0；后续功能更新递增次版本号，修复递增补丁号。iPhone通过TestFlight分发，尚未在App Store上架。遇到问题请向分享者反馈。
