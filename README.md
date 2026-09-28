@@ -4,13 +4,13 @@
 
 此仓库仅用于发布加密的 Android 安装包，不包含 App 源码或签名私钥。
 
-当前版本 **1.0.4**，包含六华、Maskmen、Scout、Panda Panda、郎中闯江湖、辣椒王、初创公司、纸牌帮、花砖物语、同谐幽境、RA、熵增猫、疯骰、星际探险队、Town77、Nine Tiles Panic、米尔帕和城堡连击，共 18 款。城堡连击归入拼图构筑，90张卡图和特使圆标已优化；阵容旁显示金币与钥匙，支持即时效果自动执行、加强版延时效果按钮和查看他人构组。首页支持四类目录与展开、收起动画。支持离线人机对战、默认昵称、自动存档和苹果＋安卓通用局域网房间。
+当前版本 **1.0.5**，包含六华、Maskmen、Scout、Panda Panda、郎中闯江湖、辣椒王、初创公司、纸牌帮、花砖物语、同谐幽境、RA、熵增猫、疯骰、星际探险队、Town77、Nine Tiles Panic、米尔帕和城堡连击，共 18 款。城堡连击归入拼图构筑，90张卡图和特使圆标已优化；阵容旁显示金币与钥匙，支持即时效果自动执行、加强版延时效果按钮和查看他人构组。首页支持四类目录与展开、收起动画。支持离线人机对战、默认昵称、自动存档和苹果＋安卓通用局域网房间。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.4) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.4/zhuodazi-android-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.0.5) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.0.5/zhuodazi-android-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
-1.0.4 更新：小局结算点返回直接开始下一局；只保留左上角返回；说明和记录返回牌桌，单机返回模式选择并保留存档，局域网返回时确认离席。
+1.0.5 更新：郎中第二组毒菇必须先储存，停手或爆锅后选择放入1/2/4级或保留剩余，可跨回合保存；修复最后一轮抽药材与入锅动画，移除顶部重复药典和记录。花砖物语只播放自己填砖，查看他人盘面实时刷新。规则采用完整页面显示。小局结算点返回直接开始下一局；只保留左上角返回；说明和记录返回牌桌，单机返回模式选择并保留存档，局域网返回时确认离席。
 
 ## 下载与安装
 
