@@ -2,17 +2,17 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **1.2.1**，共 **20 款桌游**。
+当前版本 **1.2.2**，共 **20 款桌游**。
 
-本次完善「谁是火箭队」的出牌、判定、异常状态特效、长按说明与装备交互；加强身份推断和多款游戏 AI；Maskmen 改为首位出完立即结束，同剩牌数并列计分。
+本次优化「谁是火箭队」的飞牌过程：大葱鸭拆牌会在中央亮出后进入弃牌堆，魔墙人偶拿牌显示玩家间的牌背转移；胜利提示区分火箭队、挑战者、馆主与道馆训练家共同胜利，身份选项使用完整名称。此次未更新 TestFlight。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.2.1) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.2.1/zhuodazi-android-1.2.1-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.2.2) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.2.2/zhuodazi-android-1.2.2-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-1.2.1-encrypted.zip`。
+1. 下载 `zhuodazi-android-1.2.2-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上 64 位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
