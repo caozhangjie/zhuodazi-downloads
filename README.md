@@ -2,17 +2,17 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **1.2.5**，共 **20 款桌游**。
+当前版本 **1.3.0**，共 **24 款桌游**。
 
-本次优化构组、冒险经营与合作类游戏的 AI 策略：加强 Town77、米尔帕、熵增猫与 Nine Tiles Panic 的构组规划，郎中闯江湖的药材组合与爆锅风险决策，疯骰的重投与冰镐使用，RA 的拍卖估值，初创公司的市场判断，以及星际探险队的任务配合。
+新增现代艺术、与猫的距离、玩具大作战和 Lure。现代艺术包含70幅最终画作，位于「冒险经营」；保留1.2.6的简单／中等／困难分档改进、合作队友策略和旧存档兼容。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.2.5) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.2.5/zhuodazi-android-1.2.5-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.3.0) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.3.0/zhuodazi-android-1.3.0-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-1.2.5-encrypted.zip`。
+1. 下载 `zhuodazi-android-1.3.0-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上 64 位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
