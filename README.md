@@ -2,17 +2,19 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **1.3.0**，共 **24 款桌游**。
+当前版本 **1.3.0（构建24）**，共 **24 款桌游**。
 
 新增现代艺术、与猫的距离、玩具大作战和 Lure。现代艺术包含70幅最终画作，位于「冒险经营」；保留1.2.6的简单／中等／困难分档改进、合作队友策略和旧存档兼容。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.3.0) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.3.0/zhuodazi-android-1.3.0-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.3.0-build24) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.3.0-build24/zhuodazi-android-1.3.0-build24-encrypted.zip)
+
+本构建修复郎中闯江湖第一组即时药材的多余按钮，并改善动画掉帧后的恢复；第九轮仍同时提交与揭晓。原构建22保留。
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-1.3.0-encrypted.zip`。
+1. 下载 `zhuodazi-android-1.3.0-build24-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上 64 位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
