@@ -2,24 +2,24 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **1.4.31（构建76）**。
+当前版本 **1.4.34（构建80）**。
 
-- 优化所有游戏牌桌的配色与阅读层次，麻将保留原来的深色毡桌。
-- 六华封面使用真实无数字牌面。
-- 加强寄杯蟹困难 AI 跨轮规划，新增本机复盘记录与手动导出。
+- 新增共生 Symbiose：双人、标准与搭档玩法，重绘牌面与封面。
+- 河流上方展示单条操作结果，支持两种选牌顺序和暗牌私看。
+- 查看其他玩家池塘并标记伙伴，完整游戏手记及本机导出。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.4.31-build76) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.4.31-build76/zhuodazi-android-1.4.31-build76-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.4.34-build80) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.4.34-build80/zhuodazi-android-1.4.34-build80-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-1.4.31-build76-encrypted.zip`。
+1. 下载 `zhuodazi-android-1.4.34-build80-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上64位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
 
-联机双方请更新至同一构建。iPhone对应TestFlight **1.4.0（76）**，Apple处理与测试组开放时间以TestFlight为准。
+联机双方请更新至同一构建。iPhone对应TestFlight **1.4.0（80）**，Apple处理与测试组开放时间以TestFlight为准。
 
 密码不在公开页面提供，请向分享者获取。此前经 USB 安装的 Debug 版与公开版签名不同；若提示签名冲突，请先联系开发者，不要卸载或清除数据。
 
