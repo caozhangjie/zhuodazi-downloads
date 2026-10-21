@@ -7,7 +7,7 @@
 - 璀璨宝石实装整套177张高清卡图，保留完整卡面比例。
 - 点玩家头像进入独立构筑页面，左上角返回牌桌；头像标记当前回合，AI逐步行动。
 - 星际探险队通信成功后取消手牌选中，减少误触。
-- 保留既有对局记录，取消熵增猫旧记录数量上限清理。
+- 保留既有对局记录，取消寄杯蟹旧记录数量上限清理。
 
 [打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v1.4.44-build103) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v1.4.44-build103/zhuodazi-android-1.4.44-build103-encrypted.zip)
 
