@@ -2,19 +2,19 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **2.0.0（构建125）**。
+当前版本 **2.0.0（构建126）**。
 
-- 新增国王多米诺、炸弹拆除专家、骷髅王、魔法运动会；璀璨宝石对决独立成单独游戏，旧记录与存档自动迁移。
-- 首页按分类分行展示；移除火箭队游戏。
-- 修复本地战绩记录、Android页面存储与教程页面高度，补齐教程与练习内容。
+- 全部游戏换上各自主题的牌桌美术：背景材质、分区面板、实体按键手感与标题徽记；麻将与扑克保留原色调，加入毡布纹理与桌沿材质。
+- 修复麻将与四款扑克牌桌不自动转为横屏；平板按实际屏幕排布。
+- 王国多米诺、骷髅王、胡闹运动会、炸弹克星牌桌改版；六华换上和纸与蓝染主题。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build125) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build125/zhuodazi-android-2.0.0-build125-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build126) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build126/zhuodazi-android-2.0.0-build126-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-2.0.0-build125-encrypted.zip`。
+1. 下载 `zhuodazi-android-2.0.0-build126-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上64位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
