@@ -2,19 +2,19 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **2.0.0（构建127）**。
+当前版本 **2.0.0（构建128）**。
 
-- 奥地利大饭店：修复 iPad 横屏选房间时确认按钮遮住底层房间、点不中的问题。
-- 炸弹克星装备卡换上重绘插画；平板旋转后卡牌与房间图片显示更稳定。
-- 包含构建126的全部游戏牌桌改版。
+- 炸弹克星：70 个任务全部可玩，新增任务选择、任务专属牌桌与扩展装备，AI 更强。
+- 星际探险队：新规则（自愿者、重试、求救讯号投票等），新增两人托诺娅模式、无尽挑战与航行日志进度，支持 2 人开局。
+- 包含构建127的全部修复。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build127) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build127/zhuodazi-android-2.0.0-build127-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build128) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build128/zhuodazi-android-2.0.0-build128-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-2.0.0-build127-encrypted.zip`。
+1. 下载 `zhuodazi-android-2.0.0-build128-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上64位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
