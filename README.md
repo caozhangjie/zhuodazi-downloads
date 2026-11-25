@@ -2,19 +2,20 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **2.0.0（构建128）**。
+当前版本 **2.0.0（构建130）**。
 
-- 炸弹克星：70 个任务全部可玩，新增任务选择、任务专属牌桌与扩展装备，AI 更强。
-- 星际探险队：新规则（自愿者、重试、求救讯号投票等），新增两人托诺娅模式、无尽挑战与航行日志进度，支持 2 人开局。
-- 包含构建127的全部修复。
+- 炸弹克星：AI 更强；#66 地堡最后一步改为 3 回合；iPhone 上 #66 限制卡名称显示修正。
+- 星际探险队：困难 AI 合作更强。
+- 奥地利大饭店：修复拿骰子后界面卡住。
+- 包含构建128的全部内容。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build128) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build128/zhuodazi-android-2.0.0-build128-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build130) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build130/zhuodazi-android-2.0.0-build130-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-2.0.0-build128-encrypted.zip`。
+1. 下载 `zhuodazi-android-2.0.0-build130-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上64位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
