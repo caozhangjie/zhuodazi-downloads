@@ -2,19 +2,20 @@
 
 叫上伙伴，一起开桌。
 
-当前版本 **2.0.0（构建131）**。
+当前版本 **2.0.0（构建132）**。
 
-- 新游戏（双人）：夺心魔虫、斋普尔、废墟之地。
-- 炸弹克星：#55、#60 挑战卡换上带插画的新牌面。
-- 包含构建130的全部内容。
+- 新游戏：圣托里尼（2–4 人，3D 立体牌桌，含 30 张神力卡）、拼布艺术（双人）。
+- 玩具大作战换上 3D 立体牌桌。
+- 炸弹克星、夺心魔虫、斋普尔、废墟之地界面与动画改进。
+- 包含构建131的全部内容。
 
-[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build131) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build131/zhuodazi-android-2.0.0-build131-encrypted.zip)
+[打开下载页](https://github.com/caozhangjie/zhuodazi-downloads/releases/tag/v2.0.0-build132) · [直接下载加密包](https://github.com/caozhangjie/zhuodazi-downloads/releases/download/v2.0.0-build132/zhuodazi-android-2.0.0-build132-encrypted.zip)
 
 ![下载二维码](download-qr.png)
 
 ## 下载与安装
 
-1. 下载 `zhuodazi-android-2.0.0-build131-encrypted.zip`。
+1. 下载 `zhuodazi-android-2.0.0-build132-encrypted.zip`。
 2. 使用支持 AES 加密 ZIP 的工具，输入分享者提供的原密码，解压 APK。
 3. 点开 APK 安装。支持 Android 8 及以上64位设备，原公开版可直接覆盖升级。
 4. 面对面联机时，两端连接同一 Wi-Fi；iPhone 选择“苹果＋安卓通用”，保持 App 在前台。
